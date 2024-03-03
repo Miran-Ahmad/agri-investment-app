@@ -1,0 +1,9 @@
+.card {
+    margin: 1rem;
+}
+.card-body {
+    background-color: #a3b18a;
+}
+.card-text {
+    font-weight: 600;
+}
